@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Completorio dominicos",
+    "description": "Completorio dominicos Colombia, created by DROp - Diego Rivera Gomez OP ",
+    "slug": "snack-completorio2",
+    "privacy": "unlisted",
+    "sdkVersion": "37.0.0",
+    "version": "1.2.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/escudo.png",
+
+    "loading": {
+      "icon": "./assets/escudo.png",
+      "hideExponentText": false
+    },
+
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "ios": {
+      "bundleIdentifier": "com.drop.completorio",
+      "buildNumber": "1.2.0"
+    },
+    "android": {
+      "package": "com.drop.completorio",
+      "versionCode": 2,
+      "permissions": [ ]
+    }
+
+  }
+}
